@@ -1,5 +1,5 @@
 # SkyBase - GRUB theme
-Custom visual theme for a GRUB bootloader screen
+Custom visual theme for a GRUB bootloader screen. This is a private configuration personalized for my needs and fitted into my preferences.
 
 ## Instalation
 ### Download
@@ -19,7 +19,7 @@ Open a GRUB config file located as **/etc/default/grub** and make sure there is 
 GRUB_BACKGROUND=""
 GRUB_THEME=/boot/grub/themes/skybase/theme.txt
 ```
-Of course, the path specified in **GRUB_THEME** should be pointed on your theme directory
+Of course, the path specified in **GRUB_THEME** should be pointed on your theme directory.
 ### Update GRUB
 In the end just type a command:
 ```
